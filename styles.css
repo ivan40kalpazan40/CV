@@ -127,6 +127,11 @@ body {
   line-height: 1.6;
   letter-spacing: 0.25px;
 }
+.work-item-anchor {
+  text-decoration: none;
+  color: #555555;
+  cursor: pointer;
+}
 
 .skills-pool {
   display: flex;
